@@ -1,3 +1,3 @@
 <?php
-echo " Test First ever Git Test Script";
+echo " First ever Git Test Script";
 ?>
